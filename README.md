@@ -1,12 +1,11 @@
-## Hi there 👋
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&width=500&lines=Hey!+I'm+Jamie+Parke;Computer+Science+Student+%40+UCD;Tech+Enthusiast+%7C+Gamer+%7C+Runner)](https://git.io/typing-svg)
 
-# Hello World! 🌍
+---
 
 ## 👋 About Me
-- 🎓 Computer Science & Data Science @ UCD
+- 🎓 Computer Science @ UCD
 - 💼 Software Engineer Intern @ Bank of America
-
-
+-
 
 ---
 
@@ -31,7 +30,23 @@
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jamie6084&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamie6084&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamie6084&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=jamie6084&theme=tokyonight&hide_border=true)  
+
+---
+
+## 👁 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=jamie6084&color=blue)
+
+---
+
+## 📫 Contact Me
+- Email: [jamie.parke@example.com](mailto:jamie.parke@example.com)
+- LinkedIn: [linkedin.com/in/jamieparke](https://www.linkedin.com/in/jamieparke)
+
+---
+
+
 
 
 
