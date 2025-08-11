@@ -4,10 +4,9 @@
 
 ## 👋 About Me
 - 🎓 Computer Science & Data Science @ UCD
-- 💼 Incoming Business Analyst Intern @ Bank of America
-- 🖌 Former Junior Marketing Executive & Painting Contractor
-- ⚽ Assistant Coach for an underage soccer squad
-- 🎮 Gamer | Runner | Tech Enthusiast
+- 💼 Software Engineer Intern @ Bank of America
+
+
 
 ---
 
