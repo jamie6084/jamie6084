@@ -33,12 +33,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jamie6084&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamie6084&layout=compact&theme=tokyonight)
 
----
 
-## ⚡ Fun Facts
-- 🏃 Currently training for a half marathon
-- 🎮 Plays Marvel Rivals, Minecraft, COD, and Rocket League
-- 📚 Learning Japanese for 1.5 years
+
 
 
 <!--
