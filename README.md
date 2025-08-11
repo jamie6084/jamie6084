@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&width=500&lines=Hey!+I'm+Jamie+Parke;Computer+Science+Student+%40+UCD;Tech+Enthusiast+%7C+Gamer+%7C+Runner)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&width=500&lines=Hey!+I'm+Jamie+Parke;Computer+Science+Student+%40+UCD;Tech+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
